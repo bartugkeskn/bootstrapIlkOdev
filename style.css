@@ -1,0 +1,41 @@
+a:link {
+    color: rgb(226, 4, 4);
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: rgb(226, 4, 4);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+
+.jumbotron {
+    background-color: blue;
+    margin-bottom: auto;
+  }
+
+h1{
+    color: rgb(33, 94, 173);
+}
+
+h2{
+    color: rgb(112, 83, 2);
+}
+
+#jumbotronContainer{
+    color: rgb(180, 180, 180);
+}
+
+#urunlerSayfaParagraflar{
+    color: rgb(175, 2, 175);
+}
